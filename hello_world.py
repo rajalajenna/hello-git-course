@@ -1,5 +1,7 @@
 print("Hello world!")
-print("Hello once again")
+<<<<<<< HEAD
+print("Hello darkness my old friend")
+>>>>>>> intermediate-merge-conflict/master
 =======
 print("Hello darkness my old friend")
 >>>>>>> intermediate-merge-conflict/master
